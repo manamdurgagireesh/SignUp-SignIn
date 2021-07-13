@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
+
+body
+{
+  margin:0px;
+  padding:0px;
+  filter:blur(10px);
+  background:url(https://d2qhfytuodj4jf.cloudfront.net/dev/wp-content/uploads/2018/05/03135553/Why-Big-Data-Analytics-Is-Key-to-Smarter-Recruiting-in-AI.png);
+  background-size:cover
+ 	
+	
+}
+*[role="form"] {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 0.3em;
+    background-color: #f2f2f2;
+}
+
+*[role="form"] h2 { 
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
